@@ -1,0 +1,35 @@
+Organization ID
+rdegyk
+Device Type
+safetygad
+Device ID
+gad1
+Authentication Method
+use-token-auth
+Authentication Token
+gyg06jzil(!lTGsKxV
+
+Organization ID
+rdegyk
+Device Type
+weather1
+Device ID
+weather1
+Authentication Method
+use-token-auth
+Authentication Token
+_oa-3bajxqvCrO(6kW
+
+IBM-16184-1662569028
+
+API KEY:a-rdegyk-dryezyl0he
+AUTH_TOKEN:LAlh-X1gBuPLkwmANo
+
+a-rdegyk-glshykzrwa
+nXPc6wr1WfoqGFDp5_
+
+
+
+#latitude=13.145997614532394 
+    #longitude=80.0619303452179
+

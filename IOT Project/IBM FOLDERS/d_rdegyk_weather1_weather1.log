@@ -1,0 +1,4 @@
+2022-11-08 21:00:09,876   ibmiotf.device.Client      INFO    Connected successfully: d:rdegyk:weather1:weather1
+2022-11-08 21:02:42,268   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-08 21:34:51,291   ibmiotf.device.Client      INFO    Connected successfully: d:rdegyk:weather1:weather1
+2022-11-15 10:00:13,283   ibmiotf.device.Client      INFO    Connected successfully: d:rdegyk:weather1:weather1
